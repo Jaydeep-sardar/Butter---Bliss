@@ -10,11 +10,10 @@ A beautiful, responsive **Cake Bakery Shop Website** built using **HTML**, **CSS
 ## 🚀 Features
 
 - Fully responsive layout (mobile, tablet & desktop)
-- Hero banner with welcome text and call-to-action
 - Menu section with cakes and pastries
 - About Us section with bakery story
 - Contact form with input fields
-- Footer with links and social media icons
+- Footer social media icons
 - Smooth scrolling and clean UI using Bootstrap
 
 ## 🔧 Technologies Used
