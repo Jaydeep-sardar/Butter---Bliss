@@ -3,9 +3,6 @@
 
 A beautiful, responsive **Cake Bakery Shop Website** built using **HTML**, **CSS**, and **Bootstrap**. This front-end project features an eye-catching design, smooth layout, and modern UI—perfect for showcasing cakes, pastries, and baked goods online.
 
-## 🌐 Live Demo
-
-[View Live Site](http://127.0.0.1:5501/index.html) 
 
 ## 🚀 Features
 
